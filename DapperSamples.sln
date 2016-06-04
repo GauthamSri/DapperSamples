@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataLayer", "DataLayer\DataLayer.csproj", "{4E8C91B7-CB77-4D9E-B97B-30367B28DC8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controller", "Controller\Controller.csproj", "{926B3131-2759-4713-87E4-A0F8920F3BAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E8C91B7-CB77-4D9E-B97B-30367B28DC8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E8C91B7-CB77-4D9E-B97B-30367B28DC8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E8C91B7-CB77-4D9E-B97B-30367B28DC8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E8C91B7-CB77-4D9E-B97B-30367B28DC8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{926B3131-2759-4713-87E4-A0F8920F3BAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{926B3131-2759-4713-87E4-A0F8920F3BAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{926B3131-2759-4713-87E4-A0F8920F3BAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{926B3131-2759-4713-87E4-A0F8920F3BAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

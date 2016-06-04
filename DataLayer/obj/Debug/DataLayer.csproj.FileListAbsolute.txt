@@ -1,0 +1,11 @@
+C:\Users\sgautha\Documents\Visual Studio 2012\Projects\DapperSamples\DataLayer\bin\Debug\DataLayer.dll.config
+C:\Users\sgautha\Documents\Visual Studio 2012\Projects\DapperSamples\DataLayer\bin\Debug\DataLayer.dll
+C:\Users\sgautha\Documents\Visual Studio 2012\Projects\DapperSamples\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\sgautha\Documents\Visual Studio 2012\Projects\DapperSamples\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+C:\Users\sgautha\Documents\Visual Studio 2012\Projects\DapperSamples\DataLayer\obj\Debug\DataLayer.dll
+C:\Users\sgautha\Documents\Visual Studio 2012\Projects\DapperSamples\DataLayer\obj\Debug\DataLayer.pdb
+C:\Users\sgautha\Documents\Visual Studio 2012\Projects\DapperSamples\DataLayer\bin\Debug\Dapper.dll
+C:\Users\sgautha\Documents\Visual Studio 2012\Projects\DapperSamples\DataLayer\bin\Debug\Dapper.pdb
+C:\Users\sgautha\Documents\Visual Studio 2012\Projects\DapperSamples\DataLayer\bin\Debug\Dapper.xml
+C:\Users\sgautha\Documents\Visual Studio 2012\Projects\DapperSamples\DataLayer\bin\Debug\DapperExtensions.dll
+C:\Users\sgautha\Documents\Visual Studio 2012\Projects\DapperSamples\DataLayer\bin\Debug\DapperExtensions.pdb
